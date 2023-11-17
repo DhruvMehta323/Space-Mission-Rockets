@@ -6,3 +6,4 @@ It is a data visualization project made using PowerBI and MySQL. It contains dat
 https://github.com/DhruvMehta323/Space-Mission-Rockets/assets/131392964/7b158de6-0228-438b-88ff-a18cb416276c
 
 In this video I have demonstrated the use of various filters(eg. Chandrayan-II 2019).
+I have also shown relation between databases and the columns and contents of the database itself.
